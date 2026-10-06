@@ -1,0 +1,14 @@
+Subject: Abuse contact verification - {{test123.com}}
+
+ 
+Hello,
+ 
+This is an automated check to confirm that {{test123@gmail.com}} is a monitored abuse/security contact for {{test123.com}}.
+ 
+We are TechOwl, a cybersecurity firm. We may send takedown / abuse reports to this address in the future, and we want to make sure it reaches a real mailbox.
+ 
+No action is required. If this address is not the right place to report abuse for {{test123.com}}, a reply with the correct contact would be appreciated. If you do not want to receive further messages from us, reply "STOP" and we will remove this address.
+ 
+Regards,
+Ivaan
+TechOwl
